@@ -5,7 +5,7 @@ AngularJS2 typescript + NW.js
 #### Make sur you have Node Version >= 4.0
 
 ```
-# after download the project, run :
+# after download this project, run :
 npm install
 
 # start project with :
