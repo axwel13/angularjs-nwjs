@@ -11,3 +11,6 @@ npm install
 # start project with :
 nw .
 ```
+
+Configuration PHPstorm for TypeScript Compiler
+
