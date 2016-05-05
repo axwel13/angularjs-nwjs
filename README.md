@@ -14,3 +14,4 @@ nw .
 
 Configuration PHPstorm for TypeScript Compiler
 
+![typescript compiler](https://raw.githubusercontent.com/axwel13/angularjs-nwjs/master/configure-phpstorm.png)
